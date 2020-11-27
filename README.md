@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: <a href="mailto:ardananjungkusuma@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/ardananjungkusuma"> Linkedin</a> 
-- ⚡ Favorite Quote: Cool it, Chill out, Take It Easy
+- ⚡ Favorite Quote: Hope for the best. Expect the worse.
 
 ### Github Stats
 
