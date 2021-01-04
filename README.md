@@ -6,10 +6,4 @@
 
 ### Github Stats
 
-<center>
-  <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardananjungkusuma&hide=tsql,css&bg_color=000000&title_color=71b1de&text_color=ffffff&show_icons=true&icon_color=5fc1c7"/>
-  </a>
- </center>
- 
- 
+![ardananjungkusuma's github stats](https://github-readme-stats.vercel.app/api?username=ardananjungkusuma&show_icons=true&count_private=true&theme=tokyonight)
